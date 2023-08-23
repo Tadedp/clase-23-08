@@ -9,7 +9,7 @@ omit =
     */__init__.py
 
 [report]
-exclude lines =
+exclude_lines =
     def test
     if __name__ == '__main__':
 
